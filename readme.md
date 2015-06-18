@@ -6,6 +6,8 @@ They can be used respecitvely to either ban or kick players, rather than typing 
 
 There is likely little to no point in this mod.
 
+This mod needs a -dev version of Minetest from later than the 15/05/15.
+
 Todo:
 
 - ???
