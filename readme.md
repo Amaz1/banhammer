@@ -14,4 +14,4 @@ Todo:
 - Sugestions welcome!
 
 License:
-WTFPL code and banhammer texture, CC BY-SA 3.0 kick pick texture, based off BlockMen's pick texture.
+MIT code and banhammer texture, CC BY-SA 3.0 kick pick texture, based off BlockMen's pick texture.
